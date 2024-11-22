@@ -1,0 +1,367 @@
+index 0
+question: What was the most number of people Tom has met during a holiday?
+answer: 25
+
+index 1
+question: Where does Tom plan to go for a hike?
+answer: Diablo
+
+index 2
+question: When was the last time Jerry saw his old friend?
+answer: June
+
+index 3
+question: What does Tom think about rain?
+answer: Gloomy
+
+index 4
+question: What color does Tom associate with tranquility?
+answer: Blue
+
+index 5
+question: What has Tom done to try and find his missing cat?
+answer: Banged dish
+
+index 6
+question: What type of massage is Tom getting?
+answer: Traditional
+
+index 7
+question: What type of food does Jerry generally love?
+answer: Noodle soups
+
+index 8
+question: Where is Jerry planning to travel in December?
+answer: Hawaii
+
+index 9
+question: What type of Christmas tree did Tom choose?
+answer: Artificial
+
+index 10
+question: What does Jerry do for work?
+answer: Horse vaulting
+
+index 11
+question: What is Jerry’s favorite flower?
+answer: Lotus
+
+index 12
+question: Where does Jerry live?
+answer: Tokyo
+
+index 13
+question: What movie did Tom watch last weekend?
+answer: The Parasite
+
+index 14
+question: What did Jerry have at the local cafe?
+answer: Double espresso
+
+index 15
+question: Where is Jerry currently based?
+answer: LA
+
+index 16
+question: Where is Tom going for the holidays?
+answer: Bahamas
+
+index 17
+question: What did Jerry make with an air fryer?
+answer: Donuts and samosas
+
+index 18
+question: Where does Jerry live?
+answer: Bottom of the valley
+
+index 19
+question: What is Tom’s favorite type of ice cream?
+answer: Vanilla
+
+index 20
+question: What movie did Jerry watch last night?
+answer: Terminator
+
+index 21
+question: What does Jerry plan to buy on Black Friday?
+answer: Fitbit
+
+index 22
+question: What activity has Jerry gotten into lately?
+answer: Yoga
+
+index 23
+question: Where is Jerry going for the holidays?
+answer: Mexico
+
+index 24
+question: What kind of classifier is Tom working on?
+answer: Hate speech
+
+index 25
+question: What does Jerry do as a fish groomer?
+answer: Tank cleaning
+
+index 26
+question: What swimming style is Jerry good at?
+answer: Backstroke
+
+index 27
+question: What did Tom have for breakfast?
+answer: Eggs and hash browns
+
+index 28
+question: What class is Jerry attending?
+answer: Sewing
+
+index 29
+question: Which cave did Jerry hike in Vietnam?
+answer: Son Doong
+
+index 30
+question: How long has Tom been with the company?
+answer: 3 years
+
+index 31
+question: What type of cookies has Jerry baked?
+answer: Mint chocolate chip
+
+index 32
+question: What dessert does Jerry look forward to on Thanksgiving?
+answer: Pumpkin pie
+
+index 33
+question: What kind of doctor does Tom want to be?
+answer: Brain surgeon
+
+index 34
+question: Which island in Hawaii is Tom visiting?
+answer: Maui
+
+index 35
+question: What kind of latte did Jerry get?
+answer: Matcha
+
+index 36
+question: What does Jerry think about human-like chatbots?
+answer: Great conversationalists
+
+index 37
+question: Where is Jerry going skiing for the holidays?
+answer: Tahoe
+
+index 38
+question: What type of painting does Tom do?
+answer: Oil
+
+index 39
+question: Where did Jerry's family move after being scammed?
+answer: Taiwan
+
+index 40
+question: Where did Tom visit last week?
+answer: Grand Canyon
+
+index 41
+question: What has Tom been working on with his mentor?
+answer: Communication
+
+index 42
+question: What is Jerry scared about?
+answer: Cooking
+
+index 43
+question: Who does Tom like now?
+answer: John Mayer
+
+index 44
+question: Who invited Tom for lunch?
+answer: Partner's friend
+
+index 45
+question: Where is Jerry's family?
+answer: India
+
+index 46
+question: What did Jerry have for lunch?
+answer: Mussels
+
+index 47
+question: What is Jerry excited to watch live?
+answer: Sharks
+
+index 48
+question: Where in Europe does Jerry plan to visit?
+answer: France
+
+index 49
+question: Where does Jerry visit every few weeks?
+answer: San Francisco
+
+index 50
+question: Where did Jerry live before moving?
+answer: Upstate New York
+
+index 51
+question: What type of marathons does Tom run every month?
+answer: Half-marathon
+
+index 52
+question: What game did Tom win?
+answer: Pingpong
+
+index 53
+question: What type of food does Jerry prefer?
+answer: Spicy
+
+index 54
+question: What type of Japanese food does Jerry love?
+answer: Sushi
+
+index 55
+question: What places does Jerry plan to visit?
+answer: Australia
+
+index 56
+question: What type of workout did Tom do at the gym?
+answer: Weight lifting
+
+index 57
+question: What book is Tom reading?
+answer: The Three Body Problem
+
+index 58
+question: What movie did Jerry watch over the weekend?
+answer: Knives Out
+
+index 59
+question: What Pokémon does Jerry like?
+answer: Jigglypuff
+
+index 60
+question: What is Jerry’s favorite movie?
+answer: Avatar
+
+index 61
+question: Where is Tom planning to go around Christmas?
+answer: Disneyland
+
+index 62
+question: What board game has Tom been playing lately?
+answer: Game of Thrones
+
+index 63
+question: What broke down on Tom’s way to work?
+answer: Moped
+
+index 64
+question: What event does Tom like participating in?
+answer: Spartan race
+
+index 65
+question: Where is Tom taking a skydiving lesson?
+answer: Seville
+
+index 66
+question: What course content does Tom find up-to-date?
+answer: Latest research findings
+
+index 67
+question: What game did Jerry play at the party?
+answer: Pictionary
+
+index 68
+question: What software does Jerry use for music composition?
+answer: Logic Pro X
+
+index 69
+question: What diet is Tom trying?
+answer: Keto
+
+index 70
+question: What is Jerry’s book about?
+answer: Fresh outlook
+
+index 71
+question: What game is Tom going to watch?
+answer: Warriors vs. Grizzlies
+
+index 72
+question: What game is Jerry excited about?
+answer: Giants game
+
+index 73
+question: Where does Tom work?
+answer: Palo Alto
+
+index 74
+question: What is Jerry’s favorite word origin?
+answer: Gymnasium
+
+index 75
+question: What flavored water did Tom drink?
+answer: Watermelon
+
+index 76
+question: What type of cake does Tom prefer?
+answer: Chocolate cake + vanilla icing
+
+index 77
+question: Where did Jerry study English?
+answer: New York City
+
+index 78
+question: Where did Jerry travel last weekend?
+answer: Vietnam and Hongkong
+
+index 79
+question: What language did Jerry grow up speaking?
+answer: French
+
+index 80
+question: Where is Tom's cigar from?
+answer: Peru
+
+index 81
+question: What Netflix show does Jerry recommend?
+answer: White Collar
+
+index 82
+question: What is Jerry’s favorite cuisine?
+answer: Hunan
+
+index 83
+question: Where did Jerry travel recently?
+answer: Mozambique
+
+index 84
+question: What book is Jerry currently reading?
+answer: Why We Sleep
+
+index 85
+question: What book is Tom planning to read?
+answer: Something Deeply Hidden
+
+index 86
+question: Which event does Jerry want to help with?
+answer: Badminton
+
+index 87
+question: What does Jerry do for work?
+answer: Acupuncturist
+
+index 88
+question: What fish does Jerry's research focus on?
+answer: Jellyfish and pufferfish
+
+index 89
+question: Where is Jerry traveling this weekend?
+answer: Vancouver
+
+index 90
+question: What did Jerry eat for lunch?
+answer: Sandwich
+
+index 91
+question: Where is Tom's hometown?
+answer: North coast of France
